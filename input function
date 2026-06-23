@@ -1,0 +1,10 @@
+#Write a program to store 7 Fruits entered by user 
+Fruits=[
+input("Enter your 1 fruit name: "),
+input("Enter your 2 fruit name: "),
+input("Enter your 3 fruit name: "),
+input("Enter your 4 fruit name: "),
+input("Enter your 5 fruit name: "),
+input("Enter your 6 fruit name: "),
+input("Enter your 7 fruit name: "),]
+print(Fruits)
