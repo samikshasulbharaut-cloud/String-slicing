@@ -1,0 +1,6 @@
+# write a program to print content of list  using while loop 
+names=["Samiksha","Atharv",20,False,"Flower"]
+i=0
+while(i<len(names)):
+    print(names[i])
+    i +=1
